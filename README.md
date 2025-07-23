@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://github.com/aloksarwade2002/aloksarwade2002/blob/main/github_background.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Alok Sarwade</h1>
