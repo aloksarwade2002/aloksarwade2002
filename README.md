@@ -25,14 +25,14 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=25)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoWidth=25)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql&logoWidth=25)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoWidth=25)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoWidth=25)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoWidth=25)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoWidth=25)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoWidth=25)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=30)
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoWidth=30)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql&logoWidth=30)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoWidth=30)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoWidth=30)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoWidth=30)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoWidth=30)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoWidth=30)
 
 
 ---
