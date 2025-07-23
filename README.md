@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=45)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=70)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoWidth=45)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql&logoWidth=45)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoWidth=30)
