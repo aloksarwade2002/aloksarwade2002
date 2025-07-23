@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Alok Sarwade</h1>
-<h3 align="center">🚀 Data Science | AI | Python Developer at Tata Motors</h3>
+<h3 align="center">🚀 Data Science | AI | Data Aalytics</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Decisions;AI-Powered+Solutions+Builder;Full-Stack+Analytics+Engineer;Always+Learning+Always+Building!&center=true&width=500&height=45">
@@ -14,7 +14,6 @@
 ### 🔥 About Me
 
 - 🎓 **B.Tech in Data Science & AI** from MIT, Chhatrapati Sambhajinagar  
-- 💼 Working as a **Python Developer at Tata Motors**
 - 🛠️ Currently Building:  
   - 🤖 **Offline AI Assistant “Lyra”**  
   - 📊 **DTC Error Management Dashboard**  
@@ -46,11 +45,3 @@
 
 ---
 
-### ⏱️ Wakatime Coding Stats
-
-> *(Make sure you have a [Wakatime account](https://wakatime.com) & install the Wakatime plugin in VS Code)*  
-> Replace `yourusername` with your Wakatime username if available.
-
-```markdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
